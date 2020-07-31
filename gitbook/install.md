@@ -130,7 +130,7 @@ SUMMARY.MD
 - [第一章](first.md)
 ```
 
-然后在命令行中`gitbook init`生产章节文件
+然后在命令行中`gitbook init`生成章节文件
 最后执行`gitbook serve`或`gitbook serve [路径]` 可以在浏览器[http://localhost:4000](http://localhost:4000)中预览啦
 
 完成后创作后，可以使用`gitbook build`编译书籍，生成的文件在`_book` 目录下，将这个目录中的文件推送到自己的服务器就可以了

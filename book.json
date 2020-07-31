@@ -1,0 +1,14 @@
+{
+  "title": "learn to do",
+  "author": "wadfy",
+  "language": "zh-hans",
+  "plugins": [
+    "expandable-chapters-small",
+    "splitter",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "copy-code-button",
+    "back-to-top-button"
+  ]
+}
