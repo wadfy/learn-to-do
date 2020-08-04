@@ -7,6 +7,7 @@
   - [markdown 语法](gitbook/markdown.md)
   - [写作规范](gitbook/standard.md)
 - [Github](github/introduction.md)
+  - [github pages](github/pages.md)
   - [徽标](github/logo.md)
   - [CI](github/ci.md)
 - [Golang](golang/introduction.md)

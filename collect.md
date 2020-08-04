@@ -17,3 +17,10 @@
 [微前端 成品](http://wlui.com.cn/ui/bim)
 
 [微前端技术资料](https://alili.tech/archive/ea599f7c/)
+
+[hugo 主题 1](https://themes.gohugo.io/toha/)
+[hugo 主题 2](https://themes.gohugo.io/meghna-hugo/)
+[hugo 主题 3](https://themes.gohugo.io/docsy/)
+[hugo 主题 4](https://themes.gohugo.io/hugo-elate-theme/)
+
+hsu 姓氏
