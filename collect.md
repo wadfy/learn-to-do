@@ -18,9 +18,16 @@
 
 [微前端技术资料](https://alili.tech/archive/ea599f7c/)
 
+[Monaco Editor 是 vscode 的代码编辑器](https://microsoft.github.io/monaco-editor/index.html)
+
 [hugo 主题 1](https://themes.gohugo.io/toha/)
 [hugo 主题 2](https://themes.gohugo.io/meghna-hugo/)
 [hugo 主题 3](https://themes.gohugo.io/docsy/)
 [hugo 主题 4](https://themes.gohugo.io/hugo-elate-theme/)
 
 hsu 姓氏
+
+前端英文字体 Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif
+字体颜色 #606c71
+
+https://github.com.cnpmjs.org/
