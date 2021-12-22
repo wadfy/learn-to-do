@@ -20,6 +20,6 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 [Github](https://
 ## 书写工具(链接就不给了)
 
 - typora
-- vscode (本人就用这个)
+- vscode
 - gitbook editor
 - 其他，只要支持 markdown 的编辑器就可以

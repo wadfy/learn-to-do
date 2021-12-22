@@ -25,8 +25,6 @@
 [hugo 主题 3](https://themes.gohugo.io/docsy/)
 [hugo 主题 4](https://themes.gohugo.io/hugo-elate-theme/)
 
-hsu 姓氏
-
 前端英文字体 Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif
 字体颜色 #606c71
 
